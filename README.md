@@ -50,21 +50,5 @@ The ensembling strategy proved effective, leveraging the strengths of each indiv
 
 ---
 
-##  How to Run
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/song-popularity-prediction.git](https://github.com/your-username/song-popularity-prediction.git)
-    cd song-popularity-prediction
-    ```
 
-2.  **Install the dependencies:**
-    ```bash
-    pip install -r scripts/requirements.txt
-    ```
-
-3.  **Run the training script:**
-    ```bash
-    python scripts/train.py
-    ```
-    This will generate the `Top.csv` file.
